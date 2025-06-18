@@ -1,0 +1,83 @@
+Project Overview
+This project is a command-line application that fetches and displays the current weather information for a user-specified city. It utilizes the OpenWeatherMap API to retrieve real-time data, including temperature, humidity, and weather conditions.
+
+🔧 Technologies Used
+Python: The programming language used to build the application.
+
+Requests Library: For making HTTP requests to the OpenWeatherMap API.
+
+OpenWeatherMap API: Provides weather data; a free API key is required.
+
+📋 Features
+User Input: Prompts the user to enter a city name.
+
+API Integration: Fetches weather data from OpenWeatherMap.
+
+Data Display: Shows temperature, humidity, and weather conditions.
+
+Error Handling: Manages invalid city names and API issues gracefully.
+
+🛠️ Setup Instructions
+Install Dependencies:
+Ensure the requests library is installed:
+
+bash
+Copy
+Edit
+pip install requests
+Obtain API Key:
+
+Visit OpenWeatherMap and sign up for a free account.
+
+Generate an API key from your dashboard.
+
+Configure API Key:
+Replace 'your_api_key_here' in the script with your actual API key.
+
+Run the Application:
+Execute the script:
+
+bash
+Copy
+EditProject Overview
+This project is a command-line application that fetches and displays the current weather information for a user-specified city. It utilizes the OpenWeatherMap API to retrieve real-time data, including temperature, humidity, and weather conditions.
+
+🔧 Technologies Used
+Python: The programming language used to build the application.
+
+Requests Library: For making HTTP requests to the OpenWeatherMap API.
+
+OpenWeatherMap API: Provides weather data; a free API key is required.
+
+📋 Features
+User Input: Prompts the user to enter a city name.
+
+API Integration: Fetches weather data from OpenWeatherMap.
+
+Data Display: Shows temperature, humidity, and weather conditions.
+
+Error Handling: Manages invalid city names and API issues gracefully.
+
+🛠️ Setup Instructions
+Install Dependencies:
+Ensure the requests library is installed:
+
+bash
+Copy
+Edit
+pip install requests
+Obtain API Key:
+
+Visit OpenWeatherMap and sign up for a free account.
+
+Generate an API key from your dashboard.
+
+Configure API Key:
+Replace 'your_api_key_here' in the script with your actual API key.
+
+Run the Application:
+Execute the script:
+
+bash
+Copy
+Edit
