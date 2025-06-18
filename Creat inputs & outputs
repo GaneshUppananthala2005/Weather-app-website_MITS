@@ -1,0 +1,15 @@
+1.sample Inputs:
+Enter city name: hyderabad,in
+Sample  Output:
+Weather in Hyderabad,in:
+Temperature: 28.23°C
+Humidity: 69% 
+Condition: Haze
+
+2.Sample inputs:
+Enter city name: pune,in
+Sample outputs:
+Weather in pune,in:
+Temperature: 45.23°C
+Humidity: 72%
+Condition: fog
