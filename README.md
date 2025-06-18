@@ -1,6 +1,7 @@
 # Weather-app-website_MITS
 
-📄 Project Overview
+📄 Project Overview:
+
 This command-line application retrieves and displays current weather information for a user-specified city. Utilizing the OpenWeatherMap API, it provides real-time data including temperature, humidity, and weather conditions.
 
 🛠️ Technologies Used
